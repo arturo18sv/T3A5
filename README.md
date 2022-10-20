@@ -31,6 +31,6 @@ Diseñar interfaz...
 ~~~
 
 
-##Etapa 3.
-![](https://github.com/arturo18sv/T3A5/blob/main/ETAPA3.png?raw=true)
+ ##Etapa 3.
+ ![](https://github.com/arturo18sv/T3A5/blob/main/ETAPA3.png?raw=true)
 
