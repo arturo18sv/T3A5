@@ -26,9 +26,9 @@ Utilizar la metodología de las 6D y compartir el enlace de su repositorio.
 - Validar los datos ingresados: numero de tarjeta y pin
 - mostrar un menu de opciones del cajero automatico 
 - Salida:
-
+~~~
 Diseñar interfaz...
-
+~~~
 
 
 ##Etapa 3.
