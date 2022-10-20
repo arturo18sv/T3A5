@@ -30,7 +30,7 @@ Utilizar la metodología de las 6D y compartir el enlace de su repositorio.
 Diseñar interfaz...
 ~~~
  
-##Etapa 3. Diseño de la solucion
+## Etapa 3. Diseño de la solucion
 Diagrama de clase
 
 ![](https://github.com/arturo18sv/T3A5/blob/main/ETAPA3.png?raw=true)
